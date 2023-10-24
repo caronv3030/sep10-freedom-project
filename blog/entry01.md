@@ -10,7 +10,7 @@ We have to first define the problem as if for step 1. Step 2, we have to researc
 
 ##### Skills
 
-The skills that I learned from this blog is **How to Read**, **Paying Close Attention To Details**, and **Communicating**
+The skills that I learned from this blog is kinda like **How to Read**, **Paying Close Attention To Details**, and **Communicating**
 
 [Next](entry02.md)
 
