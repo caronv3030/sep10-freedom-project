@@ -10,12 +10,12 @@ We have to first define the problem as if for step 1. Step 2, we have to researc
 
 ### Skills
 
-The skills that I learned from this blog is kinda like **How to Read**, **Paying Close Attention To Details**, and **Communicating**
+The skills that I learned from this blog is kinda like **How to Read**, **Paying Close Attention To Details**, and **Communicating**. Knowing how to read is simple, but if you actaully read then you can tell that you are actaully playing attention to the details and if you pay attention to the details then you can find out what you reading about and how to understand the reading.
+#
+Communicating is also important because then you can talk to your parther about what you have find more detail and more information. And the communicating can also help you with your social life and communicating can also make you feel like better once you communicate more and talk to your parther more. 
 
-#### Paying close Attention to Details
-
-
-
+### Summary
+I am overall exicted to countine with my topic cooking and I was also thinking about making a future website about cooking and cooking recipes once i know how to make a website. And maybe in the future, My website will be famous and many people would enjoy it and find it useful for theirselves!
 [Next](entry02.md)
 
 [Home](../README.md)
