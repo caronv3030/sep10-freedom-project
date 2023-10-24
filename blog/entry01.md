@@ -2,7 +2,7 @@
 ##### 10/23/23
 ### Why did i choose cooking?
 
-I choose cooking because ever since I was a little girl, I would always watch my dad make food for the whole family to eat because He was a chef but now that he has retired as a chef, but he's just a homecook dad now and he makes cooking fun and tells me to help him and throughout the years of helping him. I been inspired to cook or become a chef like him in the future because he makes it looks interesting and I also find it fun and inpsiring from his skills. And this website is talking about [Day in a life of a Chef.](https://www.cordonbleu.edu/news/a-day-in-the-life-of-a-chef/en)
+I choose cooking because ever since I was a little girl, I would always watch my dad make food for the whole family to eat because He was a chef but now that he has retired as a chef, but he's just a homecook dad now and he makes cooking fun and tells me to help him and throughout the years of helping him. I been inspired to cook or become a chef like him in the future because he makes it looks interesting and I also find it fun and inpsiring from his skills. And this website is talking about [Day in a life of a Chef.](https://www.cordonbleu.edu/news/a-day-in-the-life-of-a-chef/en) There are also many [many types of different chefs!] (https://www.webstaurantstore.com/article/359/types-of-chefs.html) 
 
 ### Engineering Design Process
 
@@ -11,6 +11,10 @@ We have to first define the problem as if for step 1. Step 2, we have to researc
 ### Skills
 
 The skills that I learned from this blog is kinda like **How to Read**, **Paying Close Attention To Details**, and **Communicating**
+
+#### Paying close Attention to Details
+
+
 
 [Next](entry02.md)
 
