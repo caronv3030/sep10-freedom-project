@@ -6,9 +6,9 @@ What I have found from the software and hardware technologies that I have found 
 
 #### Software
 
-*[Cooking Software](https://www.dvo.com/cooking-software.html)
-*[A Example about the Recipes about the Software, Enter Your Recipes Easily Using Quick-Fill](https://www.dvo.com/organizing-recipes.php)
-*[Type Ingredients You Have On-Hand to Get Recipe Ideas](https://www.dvo.com/recipes-on-hand.php)
+*[Cooking Software](https://www.dvo.com/cooking-software.html)  
+*[A Example about the Recipes about the Software, Enter Your Recipes Easily Using Quick-Fill](https://www.dvo.com/organizing-recipes.php)  
+*[Type Ingredients You Have On-Hand to Get Recipe Ideas](https://www.dvo.com/recipes-on-hand.php)  
 
 #### Hardware
 
