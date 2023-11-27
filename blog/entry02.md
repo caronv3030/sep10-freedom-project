@@ -23,9 +23,9 @@ How I found these informations were by searching up like "Software Cooking techn
 I would also get these information by going to ***[HSTAT Library Databases Or Web Resources](https://sites.google.com/hstat.org/hstat-library/home)***, This was another way that I would get my information from. I would also put "Software Cooking" and then I would put "Hardware Cooking". This was another way that I would show and get information. But Moving, forward, How I got my Sources.
 
 ## Sources  
-#### (Sources code is a group of instructions that a programmer would write using programming lanuages)
+#### (Context: Sources code is a group of instructions that a programmer would write using programming lanuages)
 
-
+The [sources of
 
 
 
