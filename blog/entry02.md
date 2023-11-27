@@ -14,7 +14,7 @@ What I have found from the software and hardware technologies that I have found 
 *[Type Ingredients You Have On-Hand to Get Recipe Ideas](https://www.dvo.com/recipes-on-hand.php)  
 
 #### Hardware  
-#### (Hardware is external and internal devices and equipements that you could peform the input, output, storage, communication, and processing.) 
+##### (Hardware is external and internal devices and equipements that you could peform the input, output, storage, communication, and processing.) 
 
 *
 
