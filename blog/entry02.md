@@ -4,7 +4,8 @@
 
 What I have found from the software and hardware technologies that I have found about cooking: 
 
-#### Software
+#### Software  
+##### (Software coding is like a coding data or program that are used to be operatuted in computers and execute specifc tasks)
 
 *[Cooking Software](https://www.dvo.com/cooking-software.html)  
 
@@ -12,7 +13,8 @@ What I have found from the software and hardware technologies that I have found 
 
 *[Type Ingredients You Have On-Hand to Get Recipe Ideas](https://www.dvo.com/recipes-on-hand.php)  
 
-#### Hardware
+#### Hardware  
+#### (Hardware is external and internal devices and equipements that you could peform the input, output, storage, communication, and processing.) 
 
 *
 
