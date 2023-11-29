@@ -22,10 +22,9 @@ How I found these informations were by searching up like "Software Cooking techn
 
 I would also get these information by going to ***[HSTAT Library Databases Or Web Resources](https://sites.google.com/hstat.org/hstat-library/home)***, This was another way that I would get my information from. I would also put "Software Cooking" and then I would put "Hardware Cooking". This was another way that I would show and get information. But Moving, forward, How I got my Sources.
 
-## Sources  
-#### (Context: Sources code is a group of instructions that a programmer would write using programming lanuages)
+## Engineering Design Process (EDP)
 
-The [sources of
+We are still in Step 2, ***Researching***. Researching is important because if you don't do your research, how can you get your information. Without your research and information on what you are learning about it, would definely be more diffcul for you to understand what you could be writing. Once we are done with Step 2, we would have to do Step 3, which we could have to do in Blog 3. But in Step 3, we could have to brainstorm what we will have to do it 
 
 
 
