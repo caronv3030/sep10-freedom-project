@@ -16,7 +16,8 @@ What I have found from the software and hardware technologies that I have found 
 #### Hardware  
 ##### (Hardware is external and internal devices and equipements that you could peform the input, output, storage, communication, and processing.) 
 
-* [Cooking Hardware](https://medium.com/@theroots006/what-is-kitchen-hardware-and-what-does-it-do-for-your-home-c9a8ac916d5d) 
+* [Cooking Hardware](https://medium.com/@theroots006/what-is-kitchen-hardware-and-what-does-it-do-for-your-home-c9a8ac916d5d)
+
 * [Examples of Cooking Hardware](https://resto-support.lightspeedhq.com/hc/en-us/articles/360038228214-About-Kitchen-hardware-) 
 
 
