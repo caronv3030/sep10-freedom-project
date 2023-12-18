@@ -1,7 +1,8 @@
 # Entry 3
 ##### 12/18/23
 
-#### Context
+### Context
+---
 
 What I am talking about on my Blog 3 is about me brainstorming Part B and having to finalize all my context so then it would be ready for me to make it into a website.
 
