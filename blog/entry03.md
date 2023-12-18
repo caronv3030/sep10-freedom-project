@@ -30,7 +30,7 @@ About my Part B, it is mostly about making a better cooking app, cooking gadgets
 
 #### Resources 
 * [Cooking Gadgets](https://www.thespruceeats.com/best-kitchen-gadgets-4174050) 
-* [Cooking Device/ Appliances](https://www.housebeautiful.com/shopping/home-gadgets/g22826031/smart-kitchen-appliances/)
+* [Cooking Device/ Appliances](https://www.housebeautiful.com/shopping/home-gadgets/g22826031/smart-kitchen-appliances/)  
   I got these information from [Google](https://www.google.com/?safe=active&ssui=on) and which has taken me a while to find but thankfully I was able to find some of them and they were able to give me the information that I needed. All I did was typing on the Google search was **_Cooking Gadgets_** and then I typed **_Cooking Devices/Appliances_**.
 
 ### Engineering Design Process (EDP)
