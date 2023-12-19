@@ -36,7 +36,7 @@ I got these information from [Google](https://www.google.com/?safe=active&ssui=o
 
 ### Engineering Design Process (EDP)
 ---
-We are now on Step 3, **_Brainstorming_**. Brainstorming is something to think about like your topic and what kind of like changes within your topic or thinking about what you will be needing within your topic or contribute your ideas or possible solutions to your problem if you do.  After Step 3 about **Brainstorming**, it would be about the **Plan** which that is on Step 5. 
+We are now on Step 3, **_Brainstorming_**. Brainstorming is something to think about like your topic and what kind of like changes within your topic or thinking about what you will be needing within your topic or contribute your ideas or possible solutions to your problem if you do.  After Step 3 about **Brainstorming**, it would be about the **Plan** which that is on Step 4. 
 
 ### Skills 
 ---
