@@ -15,7 +15,7 @@ What I am talking about on my Blog 3 is about me brainstorming Part B and having
 
 * ### Different kinds of cooking gadgets
   (Cooking gadgets are what chef uses to help them with preparation of a single kind of dish or performing one specific function across a variety of dishes or easy gadgets that can change their lifes!.) 
-  ##### For exmaple:
+  ##### For example:
   - StoveSelf Magnetic Shelf for Kitchen Stove  
   - A Measuring Cup (To tell you what you need to measure the amount you would need) 
   - A Temperature thermometer (Tells you the temperature so then you can see if its the right temperature that you would need to be on 
