@@ -32,11 +32,9 @@ I would say that my brainstorming for this webiste woukd be a bit challenging al
 
 #### Sources:
 (the one that I have used as a example, and the ones i have found helpful to me thinking about brainstorming of my future website is going to look like)
-- [Ryan C.](https://ryanc7064.github.io/sep10-freedom-project/)
-  
+- [Ryan C.](https://ryanc7064.github.io/sep10-freedom-project/)  
   (His website seems very cool and I love the animations on it too, It was very creative and I love how it was oranginzed.)
-- [Angela L.](https://angelal4844.github.io/sep10-freedom-project/index.html#animation)
-  
+- [Angela L.](https://angelal4844.github.io/sep10-freedom-project/index.html#animation)   
   (I love how we can see which parts that we can go to, I love how it works so smoothly, the background was pretty, this shows like what I would want to make my future look like too!)
 
 #### Resources 
