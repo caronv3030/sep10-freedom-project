@@ -28,6 +28,11 @@ What I am talking about on my Blog 3 is about me brainstorming Part B and having
  
 About my Part B, it is mostly about making a better cooking app, cooking gadgets and cooking device and appliances thay you would be able to be using in the future. I'm making this into like a webiste because if you like search up like "**Cooking Gadgets and Cooking Devices/Appliances**" then you can clearly find one of your topics other than what else you would want to search them up together. 
 
+I would say that my brainstorming for this webiste woukd be a bit challenging all though cooking is a easier side of my topic. But I would say that it was that I am mostly done, and my topic is about all the things that i would need in cooking recipes, different gadgets, and cooking or kicthen devices/ appliances.
+
+#### Sources
+
+
 #### Resources 
 * [Cooking Gadgets](https://www.thespruceeats.com/best-kitchen-gadgets-4174050) 
 * [Cooking Device/ Appliances](https://www.housebeautiful.com/shopping/home-gadgets/g22826031/smart-kitchen-appliances/)
