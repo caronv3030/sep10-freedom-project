@@ -2,6 +2,7 @@
 ##### 4/8/24
 
 ### Some Context/Learning my New tool(A-frame)
+----
 
 I learned A-frame and how to tinker from my [last blog](https://github.com/caronv3030/sep10-freedom-project/blob/main/blog/entry04.md). It would be like talking about how you can make your website look like more visual and interesting.
 But I'm still slowly learning how to use A-frame and trying to visual what I would be making on the website.
