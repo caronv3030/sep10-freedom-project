@@ -1,7 +1,9 @@
 # Entry 5
-##### X/X/XX
+##### 4/8/24
 
-Text
+### Learning my New tool(A-frame)
+
+I learned A-frame and how to tinker from my last blog
 
 [Previous](entry04.md) | [Next](entry06.md)
 
