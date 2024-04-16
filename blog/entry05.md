@@ -34,6 +34,7 @@ After the changes from the youtube video:
 ![Screenshot 2024-04-15 11 55 12 AM](https://github.com/caronv3030/sep10-freedom-project/assets/146861646/b5b2f767-8258-4c3a-b3be-dcd4dcdf87d5)
 
 [Aftermath](https://glitch.com/edit/#!/helpful-dapper-sparrow?path=README.md%3A1%3A0)
+
 ---
 There were some changes made from the before and after, I used the youtube video & website to help me make it into one and it has helped and tells me about the changes. I changed the background colors, The floor width and height, adding shapes and moving them on top on the other shape. 
 
