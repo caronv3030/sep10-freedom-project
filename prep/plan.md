@@ -1,14 +1,19 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/Cf1RjH)
+* [Desktop](https://wireframe.cc/HiGodU)
 
 ## Colors
-* `#ABC123`
+* `EEE0CB`
+* `BAA898`
+* `848586`
+* `C2847A`
+* `280003`
 
 ## Fonts
-* [Text](URL)
+* [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+* [Outfit](https://fonts.google.com/specimen/Outfit)
 
 ## Timeline
 
