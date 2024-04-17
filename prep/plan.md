@@ -17,11 +17,19 @@
 
 ## Timeline
 
+1. Finishing the wrieframe(Done)
+2. Doing the prep/plan ()
+3. Starting to put my template on my ide and unzipping it ()
+4. Starting to actually code and adding the items that are just like my wireframe()
+5. Putting the colors, and making it come to my visual website()
+6. Adding my context and images()
+
 #### MVP
 
-* Task/Timeline
-
----
+* Have the topic done
+* Bootstrap tools
+* Making it look like my actual wireframe
+* Using A-frame to make it fix on the screen or trying to use A-frame to make it visual with my context.
 
 #### Beyond MVP
 
