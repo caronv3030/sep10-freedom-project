@@ -38,13 +38,13 @@ After the changes from the youtube video:
 ---
 There were some changes made from the before and after, I used the youtube video & website to help me make it into one and it has helped and tells me about the changes. I changed the background colors, The floor width and height, adding shapes and moving them on top on the other shape. 
 
-### SKills
+### Skills
 ----
-What I have learned from the 
+What I have learned from using A-frame so far is about how I am able to make my own VR website and how kinda easy it is to use. You can make models and adding to them to your VR webiste. Even though, it would be challenging, I feel like it would be able to help me how to visual my website more and how I would be able to make it look for realistic and how much can visiual and see my point of view.
 
 ### Summary
 ----
-
+While I was trying to test out the A-frame and trying to brainstorm and starting to plan out my website. It was kinda hard and easy at the same time, I was able to understand how to move the shapes, changing background colors, adding shapes, changing shapes size and height. But I'm still brainstorming and working how to make these work for it to look like what I would have in my mind. But thanks to my sources, I would be able to use them to help me and finding out what they would be able to look like and a more visuial website.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
