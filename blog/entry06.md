@@ -1,7 +1,11 @@
 # Entry 6
-##### X/X/XX
+##### 5/1/24
+----
+### Context
+-
+#### How did I make my MVP?
 
-Text
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
